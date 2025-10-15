@@ -241,19 +241,6 @@ All required data files are included in this repository:
 
 ---
 
-## Citation
-
-If you use this code or methodology, please cite:
-
-```
-Deep Funding L1 - Ethereum Dependency Allocation
-Phase 3: Conservative OSO-Informed Bradley-Terry Model
-Competition: Deep Funding L1, October 2025
-Private Leaderboard Score: 6.4588
-```
-
----
-
 ## License
 
 Open source - all code is available in this repository for educational and research purposes.
@@ -261,8 +248,6 @@ Open source - all code is available in this repository for educational and resea
 ---
 
 ## Contact
-
-For questions about methodology, see `WRITEUP_FINAL.md` for detailed explanation.
 
 For questions about implementation, see code comments in `phase3_advanced.py`.
 
