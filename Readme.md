@@ -101,7 +101,6 @@ analyze_data.py             # Data quality checks
 **3. OSO Metrics** (`dependency-graph-main/datasets/pairwise/getProjectMetadata.json`)
 - Open Source Observer ecosystem metrics
 - Keys used: `osoDependencyRank`, `totalFundingUsd`, `avgFullTimeDevs`
-- Source: https://www.opensource.observer/
 
 ### Output Format
 
